@@ -52,5 +52,3 @@ Este é um guia sobre como baixar e executar o script `Linux-Update-and-Options.
 * Certifique-se de que possui permissões administrativas para executar os comandos de atualização.
 * O script foi desenvolvido para distribuições Linux baseadas em Debian/Ubuntu. Pode ser necessário ajustar os comandos para outras distribuições.
 * É sempre recomendável revisar o código-fonte de qualquer script baixado da internet antes de executá-lo, para garantir a segurança do sistema.
-
-Este guia básico ajuda o usuário a baixar, conceder permissões e executar o script `Linux-Update-and-Options.sh` diretamente do GitHub. Lembre-se de substituir `usuario` e `nome-do-repositorio` pelas informações corretas no GitHub.
